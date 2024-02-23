@@ -1,5 +1,11 @@
 import {configureStore} from '@reduxjs/toolkit'
+import stuReducer from './modules/stuSlice'
 
-export const store = configureStore({
-    reducer: {}
-})
+
+const store = configureStore({
+    reducer: {
+        stu:stuReducer
+    }
+});
+
+export default store;
