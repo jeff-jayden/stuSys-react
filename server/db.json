@@ -1,0 +1,71 @@
+{
+  "students": [
+    {
+      "name": "缘梦之星",
+      "age": "23",
+      "phone": "333-444-555",
+      "email": "xiejie@gmail.com",
+      "education": "adsfasfd",
+      "graduationschool": "saddksncfdksnvsd",
+      "profession": "高级前端工程师",
+      "profile": "大师傅大师傅电脑商家都是女间谍那句",
+      "id": "1"
+    },
+    {
+      "name": "远景",
+      "age": "34",
+      "phone": "123-345-678",
+      "email": "yajing@hotmail.com",
+      "education": "fasdfasfd",
+      "graduationschool": "fasfasdf",
+      "profession": "sdfasdfafd",
+      "profile": "asdfasdf",
+      "id": "3"
+    },
+    {
+      "name": "王者荣耀",
+      "age": 47,
+      "phone": "13112341234",
+      "email": "1234567@qq.com",
+      "education": "硕士",
+      "graduationschool": "北京大学",
+      "profession": "前端开发工程师",
+      "profile": "大家好!",
+      "id": "2"
+    },
+    {
+      "id": "6731",
+      "name": "qq飞车",
+      "age": "12",
+      "phone": "19334023967",
+      "email": "",
+      "education": "本科",
+      "graduationschool": "",
+      "profession": "",
+      "profile": "大撒大撒萨法沙发"
+    },
+    {
+      "id": "fe8a",
+      "name": "dasdas",
+      "age": "1",
+      "phone": "1212121212",
+      "email": "12121212",
+      "education": "本科",
+      "graduationschool": "qeqwewqe",
+      "profession": "asdsad",
+      "profile": "sadsa"
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": "前端01班",
+      "description": "这是一个积极向上的班级"
+    },
+    {
+      "id": "2",
+      "name": "前端02班",
+      "description": "这也是一个非常积极向上的班级"
+    }
+  ]
+}
